@@ -102,12 +102,12 @@ const Footer = () => {
       </StyledSocial>
       <StyledMetadata tabindex="-1">
         <StyledGitHubLink
-          href="https://github.com/bchiang7/v4"
+          href="https://github.com/Akanshagupta05"
           target="_blank"
           rel="nofollow noopener noreferrer">
           <div>
-            Designed &amp; Built by Brittany Chiang<br></br>
-            Revised by Chandrika Deb
+            Designed &amp; Built by Akansha Gupta<br></br>
+            Start Follow me on Github
           </div>
 
           {githubInfo.stars && githubInfo.forks && (

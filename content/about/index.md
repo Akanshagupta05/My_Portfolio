@@ -1,23 +1,28 @@
 ---
 title: 'About Me'
-avatar: 'me.jpg'
+avatar: 'me1.jpg'
 skills:
-  - Java Enterprise
-  - Spring MVC & Maven
-  - Jenkins (CI/CD)
-  - Kafka & Couchbase
-  - JUnit & TestNG
-  - IntelliJ Idea
-  - Golang
+  - C || JAVA
   - Python
+  - Data Structures
+  - Algorithms
+  - HTML || CSS
+  - Bootstrap
+  - Javascript
+  - ReactJS || NodeJS
+  - Git || Github
+  - MongoBD || Heroku
+  - Firebase
+
+
 ---
 
-Hello! Interestingly, I got introduced to programming in my freshman year at [Birla Institute Of Technology,  Mesra](https://www.bitmesra.ac.in/) where I completed my Bachelors in Computer Science and Engineering (2016-2020) with [86.3% aggregate](https://drive.google.com/file/d/1G4UBPBP0mvWZLRdkF_EcpmKKGp7_OA8U/view?usp=sharing).
+Hello! Interestingly, I got introduced to programming in my freshman year at [Jaipur Engineering College And Research Centre,  Rajasthan](https://jecrcfoundation.com/) where I completed my Bachelors in Computer Science and Engineering (2016-2020) with [93.9% aggregate](https://drive.google.com/file/d/1wa-FC1DZqAZuVZA-fnRIV6mTviAdnOpr/view?usp=share_link).
 
-I'm currently working as a developer for **Bell Canada** in the Amdocs Digital Delivery unit. My responsibilty includes Java/Spring based microservices development & testing. 
+My interest in coding started back in 2020 during first year of B.tech . Since then, I started learning programming languages & solving problems based on data structure and algorithms. Most importantly I'm a [Problem Solver](https://leetcode.com/05_akansha/).
 
-I'm also an [Innovation Agent](https://drive.google.com/file/d/117KS9QnDrcg7dllcAzGz_b7qQPgR3pGs/view?usp=sharing) fostering the culture of creativity and innovation at Amdocs, India.
+Also I've knowledge of Web Development and created some projects on that using HTML, CSS, Javascript / React.js / Node.js, MongoDB and some other cool libraries and frameworks. 
+ 
 
-I have been awarded as Winner in [Innovation Nugget](https://drive.google.com/file/d/1PzTZkXlQV9ldZxqmBbbO94uIqrhSwvcq/view?usp=sharing), Creativity Jam, [Design Thinking Hackathon](https://drive.google.com/file/d/1hXCATvKwzHCvctHtElsqFg5YIqabz22O/view?usp=sharing) and Runners-Up in [Project ICE Fair](https://drive.google.com/file/d/1exB19OoQ5dzU2mg4qbdkNutA25TGBWV3/view?usp=sharing) by Amdocs.
 
 Here is a list of the technologies that I'm familiar with!

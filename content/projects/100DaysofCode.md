@@ -1,16 +1,14 @@
 ---
 date: '2020-09-16'
-title: '100DaysOfCode'
-github: 'https://github.com/chandrikadeb7/100DaysOfCode'
+title: 'Sorting_Visualizer'
+github: 'https://github.com/Akanshagupta05/Sorting_Visualizer_Model'
 external: ''
 tech:
-  - Kotlin/Java
-  - Spring Microservices
   - Javascript
   - CSS
-  - Python
+  - Html
 company: ''
 showInProjects: true
 ---
 
-Repository dedicated to my #100DaysOfCode journey
+A static website for visualizing different comparison based sorting algorithms.This is a JavaScript application for visualizing various sorting algorithms. Implementations include: Bubble Sort, Merge Sort, Quick Sort, Heap Sort, Selection Sort and Insertion Sort.

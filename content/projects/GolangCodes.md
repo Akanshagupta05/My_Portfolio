@@ -1,13 +1,15 @@
 ---
 date: '2022-02-01'
-title: 'Learn Beginner Golang'
+title: 'Core'
 github: 'https://github.com/chandrikadeb7/learning-easy-golang'
 external: ''
 tech:
-  - Go
-  - Rest API
+  - Html
+  - Css
+  - Node
+  - Mongo Db
 company: ''
-showInProjects: true
+showInProjects: false
 ---
 
-Collection of small code gists along my Golang learning journey
+Blogging-Website on which user can create their own blogs & it will be saved in the database, so that when the user will come again he/she will be able to see & read the previous blogs.

@@ -1,11 +1,11 @@
 ---
-date: '2019-05-10'
-title: 'Systems Intern'
-company: 'CCL'
+date: '2022-06-22'
+title: 'ML Intern'
+company: 'Learn & build pvt. lmt'
 range: 'May - June 2019'
-url: 'http://www.centralcoalfields.in/ind/'
+url: 'https://learnandbuild.in/summer-internship-2023/'
 ---
 
-- Project on developing a fully working dynamic eCommerce website using PHP and MySQL.
-- Prepared a complete report about the specifications and working of the software.
-- View [PROJECT REPORT](https://drive.google.com/file/d/1Cn6gxJ1UYpcdz97FivBBp-SsXiVbgg5-/view?usp=sharing) and [CERTIFICATE](https://drive.google.com/file/d/1R1in-IgfDj9qx9btWEeA_9Ob3db-54_c/view?usp=sharing)
+- Project on developing a software which is perform the tasks of the users at certain commands , provide in eigther of the ways , text or speech.
+- This reduce human effort and time .
+- View [CERTIFICATE](https://docs.google.com/document/d/1C5Lv1vH6XlCT7-dFo1yOz5LYBUNl9Uvo/edit?usp=sharing&ouid=111799822393546630086&rtpof=true&sd=true)

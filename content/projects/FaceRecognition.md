@@ -1,6 +1,6 @@
 ---
 date: '2019-12-12'
-title: 'Face Recognition in Python'
+title: 'https://github.com/Akanshagupta05/React_Accordion'
 github: 'https://github.com/chandrikadeb7/Face-Recognition-in-Python'
 external: ''
 tech:
@@ -9,7 +9,8 @@ tech:
   - Pillow
   - NumPy
 company: ''
-showInProjects: true
+showInProjects: false
 ---
 
-A real time face recognition system developed in Python using Pillow, OpenCV and NumPy libraries
+A real time face recognition system developed in Python using Pillow, OpenCV and NumPy libraries.
+

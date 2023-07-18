@@ -1,16 +1,16 @@
 ---
 date: '2020-04-13'
 title: 'Covid-19 Helpdesk'
-github: 'https://github.com/chandrikadeb7/Covid-19-HelpDesk'
-external: 'https://www.youtube.com/watch?v=s9ivtzkpK6w&feature=youtu.be'
+github: 'https://github.com/Akanshagupta05/Netflix-clone'
+external: 'https://github.com/Akanshagupta05/Netflix-clone'
 tech:
-  - PHP
+  - React
   - Javascript
-  - TSQL
+  - FireBase
   - HTML
   - CSS
 company: ''
 showInProjects: false
 ---
 
-Covid-19 helpdesk for tracking moderate and high risk patients around us along with online doctor portal.
+My React.js implementation of Netflix. Movie data was pulled from TMDB data.This website is made by inspire of netflix .

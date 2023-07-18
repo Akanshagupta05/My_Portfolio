@@ -1,14 +1,16 @@
 ---
-date: '2'
-title: 'GirlScript Twitter Bot'
+date: '3'
+title: 'Face Detection Model'
 cover: 'bot.png'
-github: 'https://github.com/chandrikadeb7/Girlscript-Twitter-Bot'
-external: 'https://twitter.com/girlscript_bot'
+github: 'https://github.com/Akanshagupta05/ML/blob/master/faces_data.py'
+external: 'https://github.com/Akanshagupta05/ML/blob/master/faces_data.py'
 tech:
-  - Python
-  - tweepy
-  - Twitter API
+  - open cv
+  - python
+  - face_recoginition
+  - videocapture
+  - pandas
 showInProjects: true
 ---
 
-A Twitter Bot for [GirlScript Foundation](https://www.girlscript.tech/) that automatically retweets, favourites the tweets and follows the users who tweet with hashtag #girlscript. Checkout my tech blog on how to create it [HERE](https://www.geeksforgeeks.org/how-to-make-a-twitter-bot-in-python/)
+A face detection model that is detect the face . Open cv is an open source computer vision library . Open cv support machine learning algorithm over 2500 optimized algorithms.

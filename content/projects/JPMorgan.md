@@ -1,15 +1,17 @@
 ---
 date: '2020-05-05'
-title: 'JPMorgan Chase Virtual Internship'
-github: 'https://github.com/chandrikadeb7/JPMorgan-Chase-Virtual-Internship'
-external: 'https://www.insidesherpa.com/virtual-internships/R5iK7HMxJGBgaSbvk'
+title: 'Machine Learning Projects'
+github: 'https://github.com/Akanshagupta05/ML'
+external: 'https://github.com/Akanshagupta05/ML'
 tech:
   - Python
-  - Typescript
-  - HTML
-  - CSS
-  - Javascript
-showInProjects: false
+  - cv2
+  - numpy
+  - pandas
+  - cv2
+  - face_recoginition
+  - plotly
+showInProjects: true
 ---
 
-Contains the submitted patch files of the various tasks assigned by JPMorgan Chase & Co. Software Engineering Virtual Internship
+Contains some minor Machine Learning Projects that includes face_detection, face_recoginition, Red Blue Green color image detection , store the data of a person and register in model.

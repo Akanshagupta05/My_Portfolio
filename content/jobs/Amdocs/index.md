@@ -1,17 +1,15 @@
 ---
 date: '2020-07-30'
-title: 'Software Developer'
-company: 'Amdocs'
-range: 'July 2020 - Present'
-url: 'https://www.amdocs.com/'
+title: 'Software Developer Intern'
+company: 'Desi Qna'
+range: 'Jan 2023 - Mar 2023'
+url: 'https://www.linkedin.com/company/desiqna/'
 ---
 
-- Responsible for code development, UAT support, automation of Bell Canada NM1-RTB customisation project as part of Digital Delivery scrum team. (Oct 2021 - present)
+- It is an  3 months internship program offered by Desi Qna .
 
-- Part of Walk-the-Tech Go team of 10 developers building a microservice in Go language. Tech stack includes Couchbase, Go echo framework, REST APIs implementation, JMeter and Postman for testing purposes.
+-  Worked on the Design and Development part of fully responsive webpage for a particular section of Desi QnA.
 
-- Selected as one of the 15 Amdocs India Innovation Agents with the least industry experience in years.
+- Integrated Recaptcha with website - Google Layer of Protection for websites.
 
-- Responsible for code development as a developer of Amdocs Technology BSS-B2B Billing & RTB scrum team. (Nov 2020 - Oct 2021)
-
-- Certified in Agile, [DevOps](https://drive.google.com/file/d/133QWdIhw9KI0YMKs1SPI_6VQ1ENtMiCe/view?usp=sharing), and MS360 architecture.
+- Certified in Agile, [Intern](https://drive.google.com/file/d/1xo7sa-OQ3zS8VuoAOHl1Qng8kD8ghns9/view?usp=drive_link).

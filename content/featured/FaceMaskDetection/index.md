@@ -1,17 +1,16 @@
 ---
-date: '3'
-title: 'Face Mask Detection'
-cover: 'face-mask.png'
-github: 'https://github.com/chandrikadeb7/Face-Mask-Detection'
-external: 'https://www.youtube.com/watch?v=AAkNyZlUae0'
+date: '2'
+title: 'Sorting Algorithm Visualizer'
+cover: 'demo.png'
+github: 'https://github.com/Akanshagupta05/Sorting_Visualizer_Model'
+external: 'an-sorting-visualizer.netlify.app/'
 tech:
-  - OpenCV
-  - TensorFlow
-  - Keras
-  - Python
+  - Javascript
+  - CSS
+  - Html
 showInProjects: true
 ---
 
-Face Mask Detection system to detect face masks in static images as well as in real-time video streams. Own custom dataset was built using Bing Search API and Kaggle.
+A static website for visualizing different comparison based sorting algorithms.This is a JavaScript application for visualizing various sorting algorithms. Implementations include: Bubble Sort, Merge Sort, Quick Sort, Heap Sort, Selection Sort and Insertion Sort
 
-Inspired by Adrian Rosebrock's [PyImageSearch Blog](https://www.pyimagesearch.com/2020/05/04/covid-19-face-mask-detector-with-opencv-keras-tensorflow-and-deep-learning/).
+ 
